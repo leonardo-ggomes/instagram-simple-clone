@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Instagram Simple Clone
 
-<img src="Screenshot_1743428346.png"/>
+<img src="Screenshot_1743428346.png" width="300" />
 
 # Getting Started
 
